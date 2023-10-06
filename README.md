@@ -3,7 +3,8 @@
 This repository houses the final capstone project for the "Data Visualization with Tableau" course on Coursera. It features a comprehensive dashboard and an accompanying [video presentation](<link-to-your-youtube-video>), demonstrating the practical application of data analysis in a business context.
 
 **Key Highlights:**
-- **Dashboard**: Explore the interactive visualization created in Tableau, providing clear insights derived from complex data analyses. [View Dashboard](<(https://public.tableau.com/shared/QYXNZCR97?:display_count=n&:origin=viz_share_link)>)
+- **Dashboard**: Explore the interactive visualization created in Tableau, providing clear insights derived from complex data analyses. [View Dashboard](https://public.tableau.com/shared/QYXNZCR97?:display_count=n&:origin=viz_share_link)
+
 
 - **Video Presentation**: Watch the accompanying [video presentation](<link-to-your-youtube-video>) where I walk through the dashboard, highlighting key findings and actionable insights.
 

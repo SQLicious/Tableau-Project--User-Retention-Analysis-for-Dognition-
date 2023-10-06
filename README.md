@@ -17,7 +17,7 @@ This repository houses the final capstone project for the "Data Visualization wi
 - Practice designing and delivering persuasive "data stories" that effectively convey conclusions to a non-technical audience.
 
 **Course Overview:**
-This capstone project is the culmination of a course focused on honing the skills necessary for successful business data analysis. From structuring analyses to creating compelling visualizations, participants gain expertise in transforming data into actionable insights.
+This capstone project is the culmination of a course focused on honing the Tableau skills necessary for successful business data analysis. From structuring analyses to creating compelling visualizations, I gained expertise in transforming data into actionable insights.
 
 Feel free to explore the dashboard and video presentation, and I welcome any feedback or questions you may have!
 

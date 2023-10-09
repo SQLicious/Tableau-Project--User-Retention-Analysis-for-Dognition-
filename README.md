@@ -7,9 +7,7 @@ This repository houses the final capstone project for the "Data Visualization wi
 -  [View Dashboard](https://public.tableau.com/shared/QYXNZCR97?:display_count=n&:origin=viz_share_link)
 
 
-- **Video Presentation**: Watch the accompanying [Watch Video Presentation](https://www.youtube.com/watch?v=ThTqFvEoyqU)
-
-- where I walk through the dashboard, highlighting key findings and actionable insights.
+- **Video Presentation**: Watch the accompanying [Watch Video Presentation](https://www.youtube.com/watch?v=ThTqFvEoyqU) where I walk through the dashboard, highlighting key findings and actionable insights.
 
 **Project Objectives:**
 - Demonstrate proficiency in communicating business-relevant implications of data analyses.
